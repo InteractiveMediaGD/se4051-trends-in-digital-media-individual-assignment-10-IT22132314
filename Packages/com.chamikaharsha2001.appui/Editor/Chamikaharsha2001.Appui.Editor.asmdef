@@ -1,0 +1,10 @@
+{
+    "name": "Chamikaharsha2001.Appui.Editor",
+    "references": [
+      "Chamikaharsha2001.Appui"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

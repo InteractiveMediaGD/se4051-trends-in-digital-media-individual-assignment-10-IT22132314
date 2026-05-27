@@ -1,0 +1,11 @@
+{
+    "name": "Chamikaharsha2001.Appui.Tests",
+    "references": [
+        "Chamikaharsha2001.Appui"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

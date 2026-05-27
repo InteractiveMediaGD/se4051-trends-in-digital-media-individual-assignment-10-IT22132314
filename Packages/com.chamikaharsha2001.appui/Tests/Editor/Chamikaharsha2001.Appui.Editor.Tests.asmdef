@@ -1,0 +1,14 @@
+{
+    "name": "Chamikaharsha2001.Appui.Editor.Tests",
+    "references": [
+        "Chamikaharsha2001.Appui.Editor",
+        "Chamikaharsha2001.Appui"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
