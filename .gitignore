@@ -68,3 +68,6 @@ crashlytics-build.properties
 *.apk
 *.unitypackage
 *.app
+
+# --- Large Video files ---
+/Demo.mp4
