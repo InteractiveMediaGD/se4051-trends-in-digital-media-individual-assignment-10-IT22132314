@@ -1,0 +1,16 @@
+Terrain: Terrain
+Detail Prototypes Count: 2
+Detail [0]:
+  renderMode: Grass
+  usePrototypeMesh: True
+  prototype Prefab: grass01
+  prototypeTexture: null
+  Prefab MeshRenderer Materials:
+    - Name: grassmesh, Shader: Universal Render Pipeline/Simple Lit, Texture: grassmesh
+Detail [1]:
+  renderMode: Grass
+  usePrototypeMesh: True
+  prototype Prefab: grass01
+  prototypeTexture: null
+  Prefab MeshRenderer Materials:
+    - Name: grassmesh, Shader: Universal Render Pipeline/Simple Lit, Texture: grassmesh
